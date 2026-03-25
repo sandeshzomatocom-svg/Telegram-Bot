@@ -1,0 +1,5 @@
+telegram_bot:
+  token: '8625781811:AAGutHNQuO4apRuJOH3T16tCp-ZZFuaMMm4'
+bgmi_server:
+  ip: 'BGMI_SERVER_IP'
+  port: 7777
